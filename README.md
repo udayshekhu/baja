@@ -4,6 +4,7 @@
 - Will need a budget to be able to fund:
   * Displays (current and new ones)
   * Low Voltage cut off
+  * RGB lighting
 ## Currently working on: 
   We will be able to get ride frequency using a combination of string potentiometers and accelerometers.
     The AutoCad for the fitting of the accelerometer is done.
